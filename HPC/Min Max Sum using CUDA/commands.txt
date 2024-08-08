@@ -1,0 +1,21 @@
+Use nano editor
+> nano program.cu
+
+Copy or type program
+
+Press ctrl+x+y
+
+Compile program
+> nvcc program.cu
+
+Execute
+> ./a.out
+
+
+
+
+
+''' Colab Commands '''
+
+> !nvcc -o mms minmaxsum.cu
+> !./mms
